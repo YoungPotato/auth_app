@@ -1,4 +1,5 @@
 # auth_app
+Замечание: верстал для Iphone 12 pro max. На других эмулятор, скорее всего, верстка сломается(
 <p>
 <img src="https://user-images.githubusercontent.com/50072328/117279384-b8828b80-ae72-11eb-96a3-2d74730fece4.png" width="250">
 <img src="https://user-images.githubusercontent.com/50072328/117279381-b7515e80-ae72-11eb-8910-b33e165b2057.png" width="250">
